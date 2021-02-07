@@ -16,6 +16,7 @@
     "graphql-tag": "^2.11.0",
     "jwt-decode": "^3.1.2",
     "moment": "^2.29.1",
+    "mongoose": "^5.11.15",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
@@ -48,6 +49,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy":"https://nameless-woodland-34071.herokuapp.com/"
+  "proxy": "https://nameless-woodland-34071.herokuapp.com/"
 }
-
